@@ -12,7 +12,7 @@ Projects completed for the **Oasis Infobyte Student Internship Program (SIP)**, 
 
 | Task | Project | Folder | Tech | Live Demo |
 |---|---|---|---|---|
-| Task 1 | Landing Page (FITFORCE gym) | [WebDev-L1-LandingPage](./WebDev-L1-LandingPage) | HTML5, CSS3 | https://magumodestin.github.io/IOBSIP.WebDev-L1-LandingPage/ |
+| Task 1 | Landing Page (FITFORCE gym) | [WebDev-L1-LandingPage](./WebDev-L1-LandingPage) | HTML5, CSS3 | https://magumodestin.github.io/oibSIP.WebDev-L1-LandingPage/ |
 | Task 2 | Personal Portfolio | [WebDev-L1-PersonalPortfolio](./WebDev-L1-PersonalPortfolio) | HTML5, CSS3, JavaScript | https://myportfolio-rho-sandy.vercel.app/portfolio |
 | Task 3 | Temperature Converter | [WebDev-L1-TemperatureConverter](./WebDev-L1-TemperatureConverter) | HTML5, CSS3, JavaScript | https://temperatureconverter-black.vercel.app/ |
 
