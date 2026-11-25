@@ -1,28 +1,41 @@
-# OIBSIP – Web Development & Designing (Level 1)
+# OIBSIP - Web Development & Designing - Task 1: Landing Page
 
-Projects completed for the **Oasis Infobyte Student Internship Program (SIP)**, tasked through the AICTE Oasis Infobyte Internship Program.
+Submitted for the AICTE Oasis Infobyte Student Internship Program (SIP), Web Development & Designing, Level 1.
 
-- **Track:** Web Development & Designing
-- **Level:** Level 1 (all 3 tasks)
 - **Intern:** Destine Magumo
-- **GitHub:** [github.com/magumodestin](https://github.com/magumodestin)
-- **LinkedIn:** [linkedin.com/in/destine-magumo-913571329](https://www.linkedin.com/in/destine-magumo-913571329/)
+- **Task:** Task 1 - Landing Page (FITFORCE gym)
+- **Live demo:** https://magumodestin.github.io/OIBSIP_webdevelopment_1/
+- **Demo video:** (add YouTube or LinkedIn link)
+- **LinkedIn post:** (add link)
 
-## Projects
+## Objective
 
-| Task | Project | Folder | Tech | Live Demo |
-|---|---|---|---|---|
-| Task 1 | Landing Page (FITFORCE gym) | [WebDev-L1-LandingPage](./WebDev-L1-LandingPage) | HTML5, CSS3 | https://magumodestin.github.io/OIBSIP/WebDev-L1-LandingPage/ |
-| Task 2 | Personal Portfolio | [WebDev-L1-PersonalPortfolio](./WebDev-L1-PersonalPortfolio) | HTML5, CSS3, JavaScript | https://myportfolio-rho-sandy.vercel.app/portfolio |
-| Task 3 | Temperature Converter | [WebDev-L1-TemperatureConverter](./WebDev-L1-TemperatureConverter) | HTML5, CSS3, JavaScript | https://temperatureconverter-black.vercel.app/ |
+Design and build a landing page for a gym brand called FITFORCE using HTML5 and CSS3, with a clear layout, strong visual design and a call to action that guides visitors.
 
-Each folder has its own `README.md` with features, usage and screenshots.
+## Steps Performed
 
-## Notes
+1. Planned the page sections and the look of the FITFORCE brand.
+2. Wrote the page structure in semantic HTML5.
+3. Styled the page with CSS3 (layout, colours, typography, buttons, hover effects).
+4. Checked the page in the browser at different screen sizes and fixed layout issues.
+5. Pushed the project to GitHub and published it with GitHub Pages.
 
-- The Personal Portfolio and Temperature Converter began as earlier personal projects. For this internship the Temperature Converter was updated with Kelvin support, an all-units result and an absolute zero check, and the portfolio received content and link fixes.
-- The Landing Page was newly built for this internship.
+## Tools Used
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Git and GitHub
+- GitHub Pages (hosting)
+
+## Outcome
+
+A finished FITFORCE gym landing page, built from scratch for this internship and live online at the link above.
+
+<!-- Add a screenshot of the page here:
+![FITFORCE landing page](screenshots/landing-page.png)
+-->
 
 ## Contact
 
-Email: magumodestiny@gmail.com
+Email: magumodestiny@gmail.com | GitHub: [magumodestin](https://github.com/magumodestin) | LinkedIn: [Destine Magumo](https://www.linkedin.com/in/destine-magumo-913571329/)
